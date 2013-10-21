@@ -11,7 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
 gem 'devise', '~> 3.1.0rc2'
 gem 'paperclip', '~> 3.0'
-gem 'aws-sdk', '~> 1.16.1'
+gem 'aws-sdk', '~> 1.20.0'
 gem 'newrelic_rpm'
 group :doc do
   gem 'sdoc', require: false
